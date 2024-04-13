@@ -7,6 +7,7 @@ public class SynchClass {
 				Thread.sleep(1000);
 				System.out.println(i);
 				System.out.println("hellow");
+				System.out.println("Hello Milind");
 			}
 		}
 
