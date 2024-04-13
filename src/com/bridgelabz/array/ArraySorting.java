@@ -44,7 +44,7 @@ public class ArraySorting {
 			System.out.println(" " + i);
 		}
 		
-		
+		 
 		// sort element in descending order
 		
 		for (int i = 0; i < list.size(); i++) {
